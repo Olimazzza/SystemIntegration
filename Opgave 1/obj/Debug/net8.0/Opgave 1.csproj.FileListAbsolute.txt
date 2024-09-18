@@ -1,0 +1,18 @@
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/bin/Debug/net8.0/Opgave 1
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/bin/Debug/net8.0/Opgave 1.deps.json
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/bin/Debug/net8.0/Opgave 1.runtimeconfig.json
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/bin/Debug/net8.0/Opgave 1.dll
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/bin/Debug/net8.0/Opgave 1.pdb
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.csproj.AssemblyReference.cache
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.AssemblyInfoInputs.cache
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.AssemblyInfo.cs
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.csproj.CoreCompileInputs.cache
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.csproj.Up2Date
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.dll
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/refint/Opgave 1.dll
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.pdb
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.genruntimeconfig.cache
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/ref/Opgave 1.dll
