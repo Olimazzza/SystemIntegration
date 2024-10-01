@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Opgave_1
 {
@@ -7,8 +7,14 @@ namespace Opgave_1
         static void Main(string[] args)
         {
             var requester = new Requester();
+            var consumer = new Consumer();
             
             requester.Run();
+
+            Thread consumerThread = new Thread();
+            consumerThread.start();
+            consumerThread.run();
+            
         }
     }
 }

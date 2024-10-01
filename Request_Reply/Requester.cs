@@ -22,6 +22,7 @@ namespace RequestReplyPattern
                 
                 props.CorrelationId = correlationId;
                 props.ReplyTo = replyQueueName;
+                props.Expiration = "15000";
 
                 var requestMessage = new { flightNumber = "BC123" };
                 var messageBody = JsonConvert.SerializeObject(requestMessage);
