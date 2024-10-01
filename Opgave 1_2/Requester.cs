@@ -3,7 +3,7 @@ using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
 
-namespace Opgave_1;
+namespace Opgave_1_;
 
 public class Requester
 {
@@ -13,12 +13,8 @@ public class Requester
         using (var connection = factory.CreateConnection())
         using (var channel = connection.CreateModel())
         {
-            var QueueName = channel.QueueDeclare("ReplyQueue", false, false, false, null);
-            var consumer = new EventingBasicConsumer(channel);
-            var correlationId = Guid.NewGuid().ToString();
+            
             var props = channel.CreateBasicProperties();
-            props.CorrelationId = correlationId;
-            props.ReplyTo = QueueName;
             props.Expiration = "15000";
             
             var message = "Denne besked udløber om 15 sekunder!";

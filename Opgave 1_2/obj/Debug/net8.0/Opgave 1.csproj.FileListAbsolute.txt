@@ -16,3 +16,4 @@
 /Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.pdb
 /Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.genruntimeconfig.cache
 /Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/ref/Opgave 1.dll
+/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/Debug/net8.0/Opgave 1.sourcelink.json

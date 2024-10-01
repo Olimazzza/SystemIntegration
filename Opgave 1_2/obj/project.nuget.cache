@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lcZwGCBMKOw=",
+  "dgSpecHash": "7+sJOjZIVcQ=",
   "success": true,
-  "projectFilePath": "/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/Opgave 1.csproj",
+  "projectFilePath": "/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1_2/Opgave 1_2.csproj",
   "expectedPackageFiles": [
     "/Users/Oliver/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/Oliver/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",

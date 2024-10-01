@@ -166,11 +166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/Opgave 1.csproj",
-      "projectName": "Opgave 1",
-      "projectPath": "/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/Opgave 1.csproj",
+      "projectUniqueName": "/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1_2/Opgave 1_2.csproj",
+      "projectName": "Opgave 1_2",
+      "projectPath": "/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1_2/Opgave 1_2.csproj",
       "packagesPath": "/Users/Oliver/.nuget/packages/",
-      "outputPath": "/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1/obj/",
+      "outputPath": "/Users/Oliver/RiderProjects/SystemIntegration/Opgave 1_2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Oliver/.nuget/NuGet/NuGet.Config"
