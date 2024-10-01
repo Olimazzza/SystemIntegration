@@ -1,0 +1,18 @@
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/bin/Debug/net8.0/FlightInfo - Splitter
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/bin/Debug/net8.0/FlightInfo - Splitter.deps.json
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/bin/Debug/net8.0/FlightInfo - Splitter.runtimeconfig.json
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/bin/Debug/net8.0/FlightInfo - Splitter.dll
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/bin/Debug/net8.0/FlightInfo - Splitter.pdb
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightInfo - Splitter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightInfo - Splitter.AssemblyInfoInputs.cache
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightInfo - Splitter.AssemblyInfo.cs
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightInfo - Splitter.csproj.CoreCompileInputs.cache
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightInfo - Splitter.sourcelink.json
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightInfo - Splitter.dll
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/refint/FlightInfo - Splitter.dll
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightInfo - Splitter.pdb
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightInfo - Splitter.genruntimeconfig.cache
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/ref/FlightInfo - Splitter.dll
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightInfo - Splitter.csproj.AssemblyReference.cache
+/Users/Oliver/RiderProjects/SystemIntegration/FlightInfo - Splitter/obj/Debug/net8.0/FlightIn.1B727AC5.Up2Date
